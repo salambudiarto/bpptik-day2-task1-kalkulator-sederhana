@@ -137,6 +137,7 @@ Lisensi MIT adalah lisensi perangkat lunak "permisif" yang memungkinkan siapa sa
 |----------------|-------------|
 | **Nama**       | Salam Budiarto |
 | **Kelas**      | B |
-| **Tugas**      | Tugas 1 - Kalkulator Sederhana |
-| **Tanggal**    | 05 Oktober 2025, 11:00 WIB |
+| **Tugas**      | Day 2 - Tugas 1 - Kalkulator Sederhana |
+| **Tanggal**    | 07 Oktober 2025, 11:00 WIB |
+
 
