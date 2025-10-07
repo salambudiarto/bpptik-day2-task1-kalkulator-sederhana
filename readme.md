@@ -1,4 +1,4 @@
-# Tugas 3 - Kalkulator Sederhana
+# Day 2 - Tugas 1 - Kalkulator Sederhana
 
 Proyek ini adalah aplikasi **Kalkulator Sederhana** berbasis **HTML, PHP, dan Bootstrap 5**, yang memungkinkan pengguna menghitung operasi matematika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian.
 
@@ -137,5 +137,6 @@ Lisensi MIT adalah lisensi perangkat lunak "permisif" yang memungkinkan siapa sa
 |----------------|-------------|
 | **Nama**       | Salam Budiarto |
 | **Kelas**      | B |
-| **Tugas**      | Tugas 3 - Kalkulator Sederhana |
+| **Tugas**      | Tugas 1 - Kalkulator Sederhana |
 | **Tanggal**    | 05 Oktober 2025, 11:00 WIB |
+
