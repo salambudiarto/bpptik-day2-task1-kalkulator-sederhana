@@ -2,6 +2,10 @@
 
 Proyek ini adalah aplikasi **Kalkulator Sederhana** berbasis **HTML, PHP, dan Bootstrap 5**, yang memungkinkan pengguna menghitung operasi matematika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian.
 
+[![PHP](https://img.shields.io/badge/PHP-8%2B-blue?logo=php)](https://www.php.net/) [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.8-purple?logo=bootstrap)](https://getbootstrap.com/) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+### DEMO
+[![Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://iyo.biz.id/bpptik-day2-task1-kalkulator-sederhana)
+
 ---
 
 ## Deskripsi Proyek
